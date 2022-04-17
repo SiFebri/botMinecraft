@@ -1,0 +1,9 @@
+{
+	"ip":"game6.falix.cc",
+	"port": "45973",
+	"name": "NazComunityBot2432",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
